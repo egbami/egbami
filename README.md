@@ -1,11 +1,9 @@
-HI
-
-# 🌈 Welcome to My World
+# 👋 Hello World
+# 🚀 Crafting Code & Design
+# 🎨 Blending Tech with Aesthetics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Design-UI/UX-pink?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Asher%20Codes&width=800&height=200" alt="banner" />
 </p>
 
 ---
@@ -18,7 +16,16 @@ HI
 
 ---
 
-## 🌟 Fun Visuals
+## 🔧 Tech & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Design-UI/UX-pink?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+---
+
+## 🌟 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=egbami&show_icons=true&theme=radical" />
 </p>
