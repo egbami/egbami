@@ -1,4 +1,4 @@
-# 🌈 WASSUP NEWBIES ?
+# 🌈 WASSUP ?
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Cvleb%20Codes&width=800&height=200" alt="banner" />
@@ -35,8 +35,6 @@
 </p>
 
 
-
-
 ---
 
 ## 🐍 Contribution Snake
@@ -44,7 +42,11 @@
   <b>Snake animation loading… please check back soon 🐍</b>
 </p>
 
-.”* – Steve Jobs
+
+---
+
+## 💡 Quote of the Day
+> *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
 
 ---
 
