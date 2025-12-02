@@ -1,4 +1,4 @@
-# 🌈 Welcome to My World
+# 🌈 WASSUP NEWBIES ?
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Cvleb%20Codes&width=800&height=200" alt="banner" />
@@ -34,15 +34,8 @@
 
 </p>
 
-<p align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=egbami&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbami&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
@@ -51,22 +44,7 @@
   <b>Snake animation loading… please check back soon 🐍</b>
 </p>
 
-<p align="center">
-  <img src="https://github.com/egbami/egbami/blob/output/github-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/egbami/egbami/blob/output/github-snake-dark.svg" alt="Snake animation dark" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/egbami/egbami/blob/output/ocean.gif" alt="Snake ocean animation" />
-</p>
-
----
-
-## 💡 Quote of the Day
-> *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
+.”* – Steve Jobs
 
 ---
 
