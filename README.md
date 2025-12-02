@@ -28,27 +28,39 @@
 
 ## 📊 GitHub Stats & Streaks
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Cvleb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+  <!-- Streak Card -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=egbami&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</p>
+
+<p align="center">
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=egbami&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbami&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <!-- Fallback message -->
   <b>Snake animation loading… please check back soon 🐍</b>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Cvleb/Cvleb/blob/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/egbami/egbami/blob/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Cvleb/Cvleb/blob/output/github-snake-dark.svg" alt="Snake animation dark" />
+  <img src="https://github.com/egbami/egbami/blob/output/github-snake-dark.svg" alt="Snake animation dark" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Cvleb/Cvleb/blob/output/ocean.gif" alt="Snake ocean animation" />
+  <img src="https://github.com/egbami/egbami/blob/output/ocean.gif" alt="Snake ocean animation" />
 </p>
 
 ---
