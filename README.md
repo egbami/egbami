@@ -19,7 +19,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Code-Node.js-green?style=for-the-badge&logo=node.js" />
   <img src="https://custom-icon-badges.demolab.com/badge/Design-UI/UX-pink?style=for-the-badge&logo=figma" />
   <img src="https://custom-icon-badges.demolab.com/badge/Learning-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Design-Figma-blueviolet?style=for-the-badge&logo=figma" />
   <img src="https://custom-icon-badges.demolab.com/badge/Design-Canva-lightblue?style=for-the-badge&logo=canva" />
   <img src="https://custom-icon-badges.demolab.com/badge/3D-Blender-orange?style=for-the-badge&logo=blender" />
   <img src="https://custom-icon-badges.demolab.com/badge/Design-Framer-black?style=for-the-badge&logo=framer" />
@@ -29,8 +28,10 @@
 
 ## 📊 GitHub Stats & Streaks
 <p align="center">
-  <!-- Contribution Streaks -->
-  <img src="https://streak-stats.demolab.com?user=egbami&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Streak Card -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=egbami&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </p>
 
 <p align="center">
