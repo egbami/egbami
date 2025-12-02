@@ -28,12 +28,28 @@
 
 ## 📊 GitHub Stats & Streaks
 <p align="center">
-  
-  <!-- Streak Card -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=egbami&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Cvleb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </p>
 
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <!-- Fallback message -->
+  <b>Snake animation loading… please check back soon 🐍</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Cvleb/Cvleb/blob/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Cvleb/Cvleb/blob/output/github-snake-dark.svg" alt="Snake animation dark" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Cvleb/Cvleb/blob/output/ocean.gif" alt="Snake ocean animation" />
+</p>
 
 ---
 
