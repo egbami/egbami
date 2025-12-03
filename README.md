@@ -30,7 +30,7 @@
 <p align="center">
 
   <!-- Streak Card -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=egbami&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=egbami&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </p>
 
