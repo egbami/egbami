@@ -1,4 +1,4 @@
-# 🌈 WASSUP ?
+# 💻 WASSUP ?
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Cvleb%20Codes&width=800&height=200" alt="banner" />
