@@ -34,14 +34,16 @@
 
 </p>
 
-
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <b>Snake animation loading… please check back soon 🐍</b>
+  <img src="https://github.com/egbami/egbami/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/egbami/egbami/actions/workflows/snake.yml/badge.svg" alt="Snake Game Workflow Status" />
+</p>
 
 ---
 
