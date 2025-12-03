@@ -38,7 +38,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/egbami/egbami/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/egbami/egbami/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
