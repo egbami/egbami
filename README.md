@@ -30,7 +30,7 @@
 <p align="center">
 
   <!-- Streak Card -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=egbami&theme=dark&v=2)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=egbami&theme=dark&v=3)
 
 
 </p>
