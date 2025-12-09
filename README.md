@@ -26,13 +26,12 @@
 
 ---
 
+
+
+
 ## 📊 GitHub Stats & Streaks
 <p align="center">
-
-  <!-- Streak Card -->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=egbami)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com/?user=egbami" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
