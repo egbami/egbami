@@ -31,7 +31,7 @@
 
   <!-- Streak Card -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=egbami&theme=dark&hide_border=true&card_width=553)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </p>
 
