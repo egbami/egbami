@@ -31,7 +31,9 @@
 
 ## 📊 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=egbami" alt="GitHub Streak" width="100%" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 </p>
 
 ---
