@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats & Streaks
 <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=egbami)](https://git.io/streak-stats)
 
 </p>
 
