@@ -59,5 +59,4 @@
 
 ## ⚡ Fun fact
 I love mixing **technical problem-solving** with **color harmony** — because code should *look good* and *feel good* ✨
-tu pourrais me répondre ? 
-Ne serait ce que 5min ?![1000733752](https://github.com/user-attachments/assets/65e36148-be60-41a1-beef-de492967aba6)
+
