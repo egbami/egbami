@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px"> I'm MESSOHOUNSOUNOU Caleb</h1>
-<h3 align="center">Web and Mobile Developer & UI/UX Designer</h3>
+<h3 align="center">Software Architect , Web and Mobile Developer & UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=egbami">
@@ -12,7 +12,7 @@
 ## 📌 About Me
 - 🔭 I’m currently working on client-facing portfolio sites and collaborative student projects
 - 🌱 I’m currently learning UI/UX design and software architecture
-- 💬 Ask me about React and frontend development
+- 💬 Ask me about web or mobile development
 - 📫 How to reach me justs4857@gmail.com
 
 
